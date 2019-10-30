@@ -1,0 +1,162 @@
+body {
+  font-family:'Stoke', sans serif;
+  background: url("images/wood.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#background {
+
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 20px;
+  font-family:'Permanent Marker', cursive;
+  font-weight: 600;
+}
+
+.header {
+  width: 700px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.header img {
+  margin: 10px;
+  width: 200px;
+  height: auto;
+  border-radius: 100px;
+  text-align: center;
+}
+
+/*#google {
+  text-align: center;
+}
+*/
+#google a {
+  background-color: #5f9ea0;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+#google a:hover {
+  color: rgba(255,0,0,0.5);
+}
+
+a:hover {
+  color: rgba(255,255,0,0.5);
+}
+
+.footer {
+  padding: 20px;
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: left;
+  height: 30px;
+  display: absolute;
+}
+
+/*.footer h2 {
+  font-size: 20px;
+  color: blue;
+}*/
+
+.elements  {
+  background-color: #5f9ea0;
+  width: auto;
+}
+
+.follow-me {
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0px 10px;
+  font-family:'Permanent Marker', cursive;
+}
+.elements a {
+  font-size: 30px;
+}
+
+.description {
+  text-align: center;
+}
+
+/*.button:hover {
+  color: rgba(255,0,0,0.5);
+}*/
+
+
+
+/*.header {
+  padding: 10px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+  display: inline-flex;
+  width:
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+  font-size: 30px;
+}
+
+.header h2 {
+
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.button {
+  border-bottom: 2px solid #fff;
+  color: red;
+  display: block;
+  line-height: 3.333em;
+  padding: 0 10px 0 10px;
+  text-decoration: none;
+  position: relative;
+  }
+
+li {
+  list-style: none;
+}
+
+.nice-button {
+  width: 60px;
+  height: 30px;
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}*/
+
